@@ -33,9 +33,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 If you have any feedback, suggestions, or questions about this project, please don't hesitate to reach out to me via email at siddiquikf97@gmail.com or by connecting with me on [LinkedIn](https://www.linkedin.com/in/analytical-kaif74/).
 
-## Acknowledgements
 
-I'd like to thank [mention any libraries, frameworks, or resources used], [name of any contributors], and [any other acknowledgements].
 
 ## Note
 Please note that the source code for this portfolio is not publicly available in this repository. If you are interested in obtaining the source code or collaborating on similar projects, please feel free to contact me directly via email at [siddiquikf97@gmail.com](mailto:siddiquikf97@gmail.com) or by connecting with me on [LinkedIn](https://www.linkedin.com/in/analytical-kaif74/).
